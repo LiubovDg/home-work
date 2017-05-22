@@ -24,3 +24,12 @@ body {
     font-size: 70px;
     font-family: Broadway;
 }
+nav ul li {
+    display: inline;
+    list-style: none;
+    padding: 0px 25px 0px;
+}
+nav ul li a{
+    color: #000000;
+    font-weight: 600;
+}
