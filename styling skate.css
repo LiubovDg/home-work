@@ -44,7 +44,38 @@ img {
     top: 1px;
     left: 110px;
 }
-.description{
+.description {
     font-size: 1em;
     padding: 0 10px 10px;
     max-height: 76px;
+}
+.price1{
+    color: green;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 50px 0px 15px 0px;
+}
+.price2{
+    color: green;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 50px 0px 15px 0px;
+}
+.price3{
+    color: green;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 50px 0px 15px 0px;
+}
+.price4{
+    color: green;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 90px 0px 15px 0px;
+}
+.price5{
+    color: green;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 90px 0px 15px 0px;
+}
