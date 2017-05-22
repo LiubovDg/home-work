@@ -33,3 +33,18 @@ nav ul li a{
     color: #000000;
     font-weight: 600;
 }
+.name a {
+    font-size: 22px;
+    color: #000000;
+    font-weight: 600;
+}
+img {
+    width: 150px;
+    position: relative;
+    top: 1px;
+    left: 110px;
+}
+.description{
+    font-size: 1em;
+    padding: 0 10px 10px;
+    max-height: 76px;
