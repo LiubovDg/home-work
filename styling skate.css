@@ -8,3 +8,19 @@ body {
 .content {
     padding: 15px;
 }
+.logo {
+    padding: 25px 0px 0;
+    border: 10px;
+    margin-bottom: 20px;
+    text-align: Left;
+}
+.logo img {
+    width: 130px;
+    Left: 20px;
+}
+.logo span {
+    display: inline-block;
+    padding: 15px 30px 0;
+    font-size: 70px;
+    font-family: Broadway;
+}
