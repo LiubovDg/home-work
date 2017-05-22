@@ -1,0 +1,10 @@
+body {
+    margin:auto;
+    font-size: 1em;
+    width: 980px;
+    padding: 0 15px;
+    font-family: Arial;
+}
+.content {
+    padding: 15px;
+}
